@@ -1,3 +1,2 @@
-web:     rackup config.ru -s thin -E production
+faye:   bundle exec thin -p $PORT -e $RACK_ENV -R config.ru start
 
- 
