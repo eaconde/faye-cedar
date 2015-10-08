@@ -1,1 +1,1 @@
-FAYE_TOKEN = "anything"
+FAYE_TOKEN = "faye_token_goes_here"
